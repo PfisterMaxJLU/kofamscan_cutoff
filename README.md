@@ -1,4 +1,6 @@
 # kofamscan_cutoff
+This is a code example modifiable for your own needs.
+
 A script for the formatting and enforcement of KO cut-off thresholds in hmmsearch output files. 
 
 This uses the threshold values from the KEGG "ko_list". 
